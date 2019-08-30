@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/myshop-commons" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myshop-commons-domain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myshop-commons-mapper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myshop-commons-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myshop-database" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myshop-dependencies" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myshop-external-skywalking" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myshop-service-consumer-item" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myshop-service-provider-item" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myshop-service-reg" vcs="Git" />
+  </component>
+</project>
